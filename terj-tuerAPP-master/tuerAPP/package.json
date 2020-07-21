@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "tabris": "^2.1.0"
   },
   "devDependencies": {
